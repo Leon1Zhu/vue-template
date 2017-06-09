@@ -6,8 +6,6 @@ import './common/css/reset.css'
 import './filter'
 import './common/css/style.scss'
 import './globalFun'
-import axios from 'axios'
-Vue.prototype.$http = axios
 
 Vue.config.productionTip = false
 
